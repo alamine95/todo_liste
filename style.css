@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    color: #333;
+}
+
+.main {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.addBtn{
+    padding: 5px;
+    background-color: rgb(69, 162, 187);
+    border: none;
+    border-radius: 30%;
+    color: aliceblue;
+}
+
+.removeBtn{
+    padding: 5px;
+    background-color: rgba(191, 74, 74, 0.954);
+    border: none;
+    border-radius: 40%;
+    color: aliceblue;
+}
